@@ -4,5 +4,7 @@
   
 
 Output:
+
+
 ![Bash Prompt](https://ackeldic.sirv.com/github/bashrc.png)
  
