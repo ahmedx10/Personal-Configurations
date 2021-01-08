@@ -1,0 +1,35 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "workbench.colorTheme": "Synthax",
+  "editor.fontFamily": "Fira Code iScript",
+  "editor.fontLigatures": "Fira Code iScript",
+  "explorer.confirmDragAndDrop": false,
+  "html.format.wrapAttributes": "force-aligned",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "prettier.quoteProps": "consistent",
+  "window.zoomLevel": 0,
+  "editor.fontSize": 16,
+  "prettier.trailingComma": "none",
+  "editor.renderControlCharacters": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "breadcrumbs.enabled": true,
+  "color-highlight.languages": [ "*", "!scss" ],
+    "liveSassCompile.settings.formats": [
+      // This is Default.
+      {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "/css/"
+      },]
+}
